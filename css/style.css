@@ -180,6 +180,7 @@ header{
   }
 
   .container{
+    display:grid;
     grid-template-columns:50px auto 500px auto 50px;
     grid-template-rows: 400px 400px 400px 400px 400px;
   }
